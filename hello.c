@@ -14,6 +14,8 @@ int main (void) {
     
     printf("Abdullah Alkindi\n");
     printf("Civil Engineering\n");
+    printf("Cade Cutler\n");
+    printf("Mathematics\n");
 
 
     return 0;
